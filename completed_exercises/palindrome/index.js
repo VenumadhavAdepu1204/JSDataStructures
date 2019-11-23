@@ -23,3 +23,4 @@ module.exports = palindrome;
 //
 //   return str === reversed;
 // }
+console.log(palindrome('madam'))
